@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-studentsApplication</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_addstudents">Add Students</string>
+    <string name="title_aboutus">About Us</string>
+</resources>
